@@ -16,3 +16,8 @@ label{
     margin-top: 12px;
     font-size: 18px;
 }
+
+.reactionBtn{
+    background-color: transparent;
+    color: white;
+}
